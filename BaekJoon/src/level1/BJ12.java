@@ -1,5 +1,7 @@
 package level1;
 
+import java.util.Scanner;
+
 public class BJ12
 {
     public static void main(String[] args)
