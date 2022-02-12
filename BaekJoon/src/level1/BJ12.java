@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package level1;
 
 public class BJ12
 {
